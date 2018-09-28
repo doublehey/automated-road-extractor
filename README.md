@@ -75,12 +75,12 @@ single_pixel_path\t3\Vertical Paths\70_3.png Saved
 single_pixel_path\t3\Horizontal Paths\70_3.png Saved  
 
 | <img src="Sample Run Images/Step 3a.png" width="350px" hieght="300px"> | <img src="Sample Run Images/Step 4.png" width="350px" hieght="300px"> |
-<pre>
+
 
 
              STEP 4: Path Refiner                
 
-
+  
 -- Kernel Size: 5x4  
 
 Refining Wide Jump Path Images  
