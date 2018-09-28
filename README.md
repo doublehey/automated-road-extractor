@@ -93,5 +93,5 @@ Processing Complete
 All resulting images saved in Results directory  
 
 
-| <img src="Sample Run Images/Results a.png" width="350px" hieght="300px"> | <img src="Sample Run Images/Results b.png" width="350px" hieght="300px"> |
+| <img src="Sample Run Images/Results a.png" width="400px" hieght="400px"> | <img src="Sample Run Images/Results b.png" width="400px" hieght="400px"> |
 
