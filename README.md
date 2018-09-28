@@ -36,7 +36,7 @@ Saved OTSU_thresh.png, noise.png, noise_free.png in the directory " Morphology\t
 
 <pre>
 <div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="350px" hieght="300px" style="float:right"></div>
+    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="100px" hieght="100px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="100px" hieght="100px" style="float:right"></div>
 </ul>
 </pre>
 
