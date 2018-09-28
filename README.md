@@ -35,12 +35,7 @@ Applying open close operations
 Saved OTSU_thresh.png, noise.png, noise_free.png in the directory " Morphology\t3 "  
 
 
-| <img src="Sample Run Images/Step 1a.png" width="140px" hieght="100px"> | <img src="Sample Run Images/Step 1b.png" width="100px" hieght="100px"> |
-<pre>
-<div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="140px" hieght="100px"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="100px" hieght="100px"></div>
-</ul>
-</pre>
+| <img src="Sample Run Images/Step 1a.png" width="350px" hieght="300px"> | <img src="Sample Run Images/Step 1b.png" width="350px" hieght="300px"> |
 
         STEP 2: Applying Variance Test         
 
@@ -53,11 +48,8 @@ Variance_test\t3\30_10_2.png Saved
 Variance_test\t3\40_5_2.png Saved  
 Variance_test\t3\40_10_2.png Saved  
 
-<pre>
-<div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 2a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 2b.png" width="350px" hieght="300px" style="float:right"></div>
-</ul>
-</pre>
+| <img src="Sample Run Images/Step 2a.png" width="350px" hieght="300px"> | <img src="Sample Run Images/Step 2b.png" width="350px" hieght="300px"> |
+
 
 Select image from " variance_test\t3 " for further processing  
 1 -> 30_5_2.png  
@@ -82,11 +74,9 @@ wide_jump_path\t3\Horizontal Paths\80_12.png Saved
 single_pixel_path\t3\Vertical Paths\70_3.png Saved  
 single_pixel_path\t3\Horizontal Paths\70_3.png Saved  
 
+| <img src="Sample Run Images/Step 3a.png" width="350px" hieght="300px"> | <img src="Sample Run Images/Step 4.png" width="350px" hieght="300px"> |
 <pre>
-<div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 3a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 4.png" width="350px" hieght="300px" style="float:right"></div>
-</ul>
-</pre>
+
 
              STEP 4: Path Refiner                
 
@@ -102,8 +92,6 @@ Processing Complete
 
 All resulting images saved in Results directory  
 
-<pre>
-<div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Results a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Results b.png" width="350px" hieght="300px" style="float:right"></div>
-</ul>
-</pre>
+
+| <img src="Sample Run Images/Result a.png" width="350px" hieght="300px"> | <img src="Sample Run Images/Result b.png" width="350px" hieght="300px"> |
+
