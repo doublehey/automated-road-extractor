@@ -33,10 +33,12 @@ Processing Image t3
 Kernel Size: 25x25  
 Applying open close operations  
 Saved OTSU_thresh.png, noise.png, noise_free.png in the directory " Morphology\t3 "
-
+| Tables        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
 <pre>
 <div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="100px" hieght="100px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="100px" hieght="100px" style="float:right"></div>
+    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="100px" hieght="100px"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="100px" hieght="100px"></div>
 </ul>
 </pre>
 
