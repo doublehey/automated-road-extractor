@@ -5,7 +5,6 @@ Automated roads extraction from satellite imagery using a combination of image p
 These instructions will get you a copy of the project up and running on your local machine for use. All sample images are present in
 data directory.  
 Read the description of each step [here](https://drive.google.com/file/d/1zmWoqN7tSay-REJBXZ0SfHSildUCJhYs/view?usp=sharing)  
-Visual representation of each step [here](https://docs.google.com/presentation/d/1oVIDWYQ5ZnVxSbRWyUtYeC2JI6PqkEe9PoX42nhSgx4/edit?usp=sharing)
 
 ## REQUIREMENTS
 1. Python 3.x
@@ -35,6 +34,11 @@ Kernel Size: 25x25
 Applying open close operations  
 Saved OTSU_thresh.png, noise.png, noise_free.png in the directory " Morphology\t3 "
 
+<pre>
+<div class="row">
+    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="390px" hieght="350px" style="float:right"></div>
+</ul>
+</pre>
 
         STEP 2: Applying Variance Test         
 
@@ -46,6 +50,12 @@ Variance_test\t3\30_5_2.png Saved
 Variance_test\t3\30_10_2.png Saved  
 Variance_test\t3\40_5_2.png Saved  
 Variance_test\t3\40_10_2.png Saved  
+
+<pre>
+<div class="row">
+    <div class="col-sm-4"><img src="Sample Run Images/Step 2a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 2b.png" width="390px" hieght="350px" style="float:right"></div>
+</ul>
+</pre>
 
 Select image from " variance_test\t3 " for further processing  
 1 -> 30_5_2.png  
@@ -70,6 +80,11 @@ wide_jump_path\t3\Horizontal Paths\80_12.png Saved
 single_pixel_path\t3\Vertical Paths\70_3.png Saved  
 single_pixel_path\t3\Horizontal Paths\70_3.png Saved  
 
+<pre>
+<div class="row">
+    <div class="col-sm-4"><img src="Sample Run Images/Step 3a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 4.png" width="390px" hieght="350px" style="float:right"></div>
+</ul>
+</pre>
 
              STEP 4: Path Refiner                
 
@@ -84,3 +99,9 @@ Projecting Refined Images onto the Satellite Image
 Processing Complete  
 
 All resulting images saved in Results directory  
+
+<pre>
+<div class="row">
+    <div class="col-sm-4"><img src="Sample Run Images/Results a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Results b.png" width="390px" hieght="350px" style="float:right"></div>
+</ul>
+</pre>
