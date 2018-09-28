@@ -36,7 +36,7 @@ Saved OTSU_thresh.png, noise.png, noise_free.png in the directory " Morphology\t
 
 <pre>
 <div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="390px" hieght="350px" style="float:right"></div>
+    <div class="col-sm-4"><img src="Sample Run Images/Step 1a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 1b.png" width="350px" hieght="300px" style="float:right"></div>
 </ul>
 </pre>
 
@@ -53,7 +53,7 @@ Variance_test\t3\40_10_2.png Saved
 
 <pre>
 <div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 2a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 2b.png" width="390px" hieght="350px" style="float:right"></div>
+    <div class="col-sm-4"><img src="Sample Run Images/Step 2a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 2b.png" width="350px" hieght="300px" style="float:right"></div>
 </ul>
 </pre>
 
@@ -82,7 +82,7 @@ single_pixel_path\t3\Horizontal Paths\70_3.png Saved
 
 <pre>
 <div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Step 3a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 4.png" width="390px" hieght="350px" style="float:right"></div>
+    <div class="col-sm-4"><img src="Sample Run Images/Step 3a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Step 4.png" width="350px" hieght="300px" style="float:right"></div>
 </ul>
 </pre>
 
@@ -102,6 +102,6 @@ All resulting images saved in Results directory
 
 <pre>
 <div class="row">
-    <div class="col-sm-4"><img src="Sample Run Images/Results a.png" width="390px" hieght="350px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Results b.png" width="390px" hieght="350px" style="float:right"></div>
+    <div class="col-sm-4"><img src="Sample Run Images/Results a.png" width="350px" hieght="300px" style="float:right"></div>  <div class="col-sm-4"><img src="Sample Run Images/Results b.png" width="350px" hieght="300px" style="float:right"></div>
 </ul>
 </pre>
